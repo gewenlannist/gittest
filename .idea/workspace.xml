@@ -8,19 +8,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f6dcc5-07de-4e7b-9b7c-335930835525" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_12_9_16_44__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2022_12_9_16_44__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3f6dcc5-07de-4e7b-9b7c-335930835525" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gewenlannist &lt;72534321+gewenlannist@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="c09dfffd3544ded2f0e6cd5eeab84fa13159d485" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,6 +60,14 @@
       <updated>1670573291765</updated>
       <workItem from="1670573293017" duration="3313000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1670578562775</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670578562775</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,10 +145,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="790" y="372" key="#Other_File_Types/0.0.1920.1040@0.0.1920.1040" timestamp="1670577283750" />
-    <state x="558" y="95" key="CommitChangelistDialog2" timestamp="1670575896163">
+    <state x="558" y="95" key="CommitChangelistDialog2" timestamp="1670578562061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="95" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1670575896163" />
+    <state x="558" y="95" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1670578562061" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1670575501133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -167,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="806" y="434" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1670575076475" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1670578214666">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1670578695494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1670578214666" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1670578695494" />
     <state x="764" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1670575089346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
