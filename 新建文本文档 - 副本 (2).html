@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head> 
+  <meta charset="UTF-8">
+  <title>心跳效果</title>
+  <style>
+	*{margin:0; padding:0;}
+	li{list-style:none;}
+	a{text-decoration:none;}
+
+	.heart{
+		position:relative;
+		width:100px; 
+		height:100px;
+		margin:100px;
+		animation:scale 1s linear infinite;  
+		/*名称 1s 匀速 无限循环*/
+	}
+	@keyframes scale{   /*必须和animation一起用  动画帧*/
+		50%{transform:scale(2)}
+	}
+	.heart:after,
+	.heart:before{
+		position:absolute;
+		width:60px;
+		height:100%;
+		background-color:#ff6666;
+		content:"";
+		border-radius:50% 50% 0 0;
+	}
+	.heart:before{
+		left:0;
+		transform:rotate(-52deg);
+	}
+	.heart:after{
+		right:0;
+		transform:rotate(49deg);
+	}
+  </style>
+ </head> 
+
+ <!-- 可视化区域-->
+ <body>
+	<div class="heart"></div>
+ </body>
+</html>
+
