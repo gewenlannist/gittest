@@ -8,10 +8,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3f6dcc5-07de-4e7b-9b7c-335930835525" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/aaa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aaa.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/新建文本文档.html" beforeDir="false" />
-    </list>
+    <list default="true" id="e3f6dcc5-07de-4e7b-9b7c-335930835525" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="c09dfffd3544ded2f0e6cd5eeab84fa13159d485" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,23 +39,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670573291765</updated>
-      <workItem from="1670573293017" duration="2355000" />
+      <workItem from="1670573293017" duration="3313000" />
     </task>
     <servers />
   </component>
@@ -108,18 +93,7 @@
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="false" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
@@ -149,10 +123,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="790" y="372" key="#Other_File_Types" timestamp="1670577283750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="372" key="#Other_File_Types/0.0.1920.1040@0.0.1920.1040" timestamp="1670577283750" />
+    <state x="558" y="95" key="CommitChangelistDialog2" timestamp="1670575896163">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="95" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1670575896163" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1670575501133">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1670575501133" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1670577298267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1670577298267" />
     <state x="184" y="85" key="MergeDialog" timestamp="1670575491367">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
